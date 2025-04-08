@@ -5,7 +5,7 @@
 <h1 align="center">Hey there! I'm Ilyass Krichi 👋</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kilyess.kilyess&left_text=visitors"  />
+  <img src="https://u8views.com/api/v1/github/profiles/65032700/views/day-week-month-total-count.svg">
 </div>
 
 <p align="center">
