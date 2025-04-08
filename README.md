@@ -40,9 +40,9 @@
 
 ### Fun Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilyess&layout=compact&theme=radical" alt="Github Streaks" height="270">
-  <img src="https://github-readme-stats.vercel.app/api?username=kilyess&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilyess&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilyess&layout=compact&theme=tokyonight" alt="Github Streaks" height="270">
+  <img src="https://github-readme-stats.vercel.app/api?username=kilyess&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilyess&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
   
 </p>
 
