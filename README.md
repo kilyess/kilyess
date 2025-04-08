@@ -4,6 +4,10 @@
 
 <h1 align="center">Hey there! I'm Ilyass Krichi 👋</h1>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kilyess.kilyess&left_text=visitors"  />
+</div>
+
 <p align="center">
   <strong>Software Engineer | DevOps Enthusiast | Web & Mobile Developer</strong><br>
   Cat lover 🐾 | Tech geek ⚙️ | #Free_Palestine 🇵🇸
@@ -36,8 +40,10 @@
 
 ### Fun Stats
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilyess&layout=compact&theme=radical" alt="Github Streaks" height="270">
   <img src="https://github-readme-stats.vercel.app/api?username=kilyess&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilyess&layout=compact&theme=radical" alt="Top Languages" height="150">
+  
 </p>
 
 ---
